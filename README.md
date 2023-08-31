@@ -3,7 +3,7 @@ This repository holds the code for a satellite to ground interaction model. The 
 
 Program Structure:
 1. Read the values from the magnetometer and actuate the stepper motors to rotate the camera to face a specified heading.
-2. Begin looking for an object of a specified color
+2. Begin looking for an object of a specified color.
 3. Track the object and actuate the pan/tilt servos in the corresponding directions to keep the object in frame. 
 
 
