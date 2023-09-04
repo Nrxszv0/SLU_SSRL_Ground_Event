@@ -10,4 +10,4 @@ Program Structure:
 
 https://github.com/Nrxszv0/SLU_Ground_Event/assets/58677365/70348c0d-e89e-4651-9d60-0d0e6e227fd5
 
-![SLU Ground Event Pic](https://github.com/Nrxszv0/SLU_Ground_Event/assets/58677365/74beb69c-8485-490a-a391-ed2ef17bb25e)
+<img width="400" src ="https://github.com/Nrxszv0/SLU_Ground_Event/assets/58677365/74beb69c-8485-490a-a391-ed2ef17bb25e">
